@@ -1,0 +1,39 @@
+{
+  "Content": [
+    {
+      "images": [
+        "http://dev.genesesolution.com/wp-content/uploads/2018/12/partner_amazon.png",
+        "http://dev.genesesolution.com/wp-content/uploads/2018/12/partner_azure.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Google_Cloud_Logo.svg/200px-Google_Cloud_Logo.svg.png",
+        "http://dev.genesesolution.com/wp-content/uploads/2018/12/partner_alibaba.png"
+      ]
+    },
+    {
+      "title": "The Best Cloud Solution And Price",
+      "paragraph": "We're certified and affiliated with a range of popular cloud Partners to offer you best solution and price fit for your business.",
+      "images": [
+        "http://dev.genesesolution.com/wp-content/uploads/2018/12/partner_amazon.png",
+        "http://dev.genesesolution.com/wp-content/uploads/2018/12/partner_azure.png"
+      ]
+    },
+    {
+      "title": "Cloud Experts Driving Digital Transformation",
+      "paragraph": "Are you a startup? Small or medium business looking to migrate to the cloud? We provide expert IT advice, cloud migration, service integration and software development worldwide. Our management team brings the experience and expertise learned from internationally established companies like Microsoft, Amazon, Rackspace and Capital One. Our core strenght is to build efficient, highly scalable, reliable cloud infrastructures and continuous delivery pipelines that maximise profits and allow you to deliver features faster. Our skilled team of certified Architects, Developers and DevOps professionals make your transition to the cloud fully managed, cost-effective and secure.",
+      "link": {
+        "url": "./Services/DigitalTransformation",
+        "text": "Learn more about how our certified cloud experts can take care of your digital transformation. [Link to Services > Digital Transformation]"
+      }
+    },
+    {
+      "title": "Software Development",
+      "paragraph": "Our team is experienced planning small, medium and complex project. We engage with our customers regularly, regardless of their background to advise on technical requirements that are fit for purpose and is optimal. We design, develop, test and monitor solutions such as optimised websites, mobile apps, cloud data solutions and high performance cloud services.",
+      "link": {
+        "url": "./Services/SoftwareDevelopment",
+        "text": "Learn more on how we can help you build, maintain and optimise your website, mobile app or cloud services. [link to Services > Software Development]"
+      },
+      "images": [
+        "https://pragmaticaconsultancy.sharepoint.com/Shared%20Documents/Genese/Website%20Rebranding/Website%20Images/software-development-banner.png"
+      ]
+    }
+  ]
+}

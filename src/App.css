@@ -1,0 +1,74 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 10vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 10vh;
+  display: block;
+  align-items: right;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.App-dark-font {
+  color: #282c34;
+  font-weight: 400;
+}
+
+.App-carousel {
+  height: 480px;
+  width: 100%;
+}
+
+.App-banner {
+  padding-left: 12%;
+}
+
+.App-carousel-caption {
+  position: absolute;
+  right: 45%;
+  bottom: 20px;
+  left: 12%;
+  z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: left;
+  color: #fff;
+}
+
+.App-carousel-caption-dark {
+  color: #282c34;
+}
+
+.App-small-print {
+  font-size: 10px;
+}
+
+.App-cards {
+  display: flex;
+  text-align: center;
+}
+
+.App-cards-img {
+  height: "15rem";
+}
+
+.App-jumbotron {
+  justify-content: left;
+  text-align: justify;
+  padding-left: 12%;
+  padding-right: 10%;
+  padding-top: 2%;
+  padding-bottom: 1%;
+  margin-bottom: 0;
+}
